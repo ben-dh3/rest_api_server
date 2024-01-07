@@ -8,7 +8,7 @@ I wrote this server for the purpose of bettering my understanding of REST API, a
 
 ### Run the server
 
-- In the rest_api_server directory
+In the rest_api_server directory run:
 
 `pipenv install`
 
@@ -18,6 +18,6 @@ I wrote this server for the purpose of bettering my understanding of REST API, a
 
 ### Make a GET request with curl
 
-- Now open a new terminal and run:
+Now open a new terminal and run:
 
 `curl -v http://127.0.0.1:5001`
