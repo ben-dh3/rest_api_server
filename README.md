@@ -2,7 +2,7 @@
 
 Server made using Flask with GET request functionality. When called the server sends an HTTP response with the required RESTful headers and caching functionality using Flask-Caching.
 
-I wrote this server for the purpose of bettering my understanding of REST API, and to explain REST in an article on Medium.
+I wrote this server for the purpose of bettering my understanding of REST API, and to explain REST in an [article](https://www.codenjobs.com/user/ben/blog/why-use-soap-when-you-can-rest) on Code & Jobs.
 
 # How to Run the Project
 
